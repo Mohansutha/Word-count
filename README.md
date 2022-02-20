@@ -34,10 +34,10 @@ program()
 
 ### Text File:
 
-![file](./img/1.png)
+![file](1.png)
 
 ### Output:
-![output](./img/2.png)
+![output](2.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
